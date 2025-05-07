@@ -21,15 +21,10 @@ Steamの起動オプションに以下を追加してください：
 
 ---
 
-関連リンク
+## 関連リンク
 
-    Left 4 Dead 2 on Steam – L4D2の公式ストアページ
-
-    L4D2公式Wiki（Valve Developer Community） – コンフィグや開発向け情報
-
-    Steam コミュニティ :: ガイド – ユーザーが作った設定・MODなどのガイド集
-
-    L4D2 Workshop – ワークショップで人気のMOD
-
-    CFGファイルの基本ガイド（外部・英語） – 基本的な.cfgファイル編集方法
-    
+- [Left 4 Dead 2 on Steam](https://store.steampowered.com/app/550/Left_4_Dead_2/)
+- [L4D2公式Wiki（Valve Developer Community）](https://developer.valvesoftware.com/wiki/Left_4_Dead_2)
+- [Steam コミュニティ :: ガイド](https://steamcommunity.com/app/550/guides/)
+- [L4D2 Workshop（MOD配布）](https://steamcommunity.com/app/550/workshop/)
+- [CFGファイルの基本ガイド（外部・英語）](https://www.gamereplays.org/community/index.php?showtopic=882803)
