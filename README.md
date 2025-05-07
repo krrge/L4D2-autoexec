@@ -10,7 +10,7 @@
 <br><kbd>C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
 
 2. L4D2を起動し、コンソールを開いて以下を実行：
-<br>exec autoexec.cfg
+<br><kbd>exec autoexec.cfg
 
 ## 起動オプション
 
