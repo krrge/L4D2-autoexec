@@ -14,7 +14,7 @@
 
 ---
 
-## 起動オプション（任意）
+## 起動オプション
 
 Steamの起動オプションに以下を追加してください：
 <br><kbd>-lv +exec autoexec.cfg -console -novid -nojoy
