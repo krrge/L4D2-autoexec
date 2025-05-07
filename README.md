@@ -1,1 +1,1 @@
-# L4D2-autoexec
+# L4D2 Config by krrge
