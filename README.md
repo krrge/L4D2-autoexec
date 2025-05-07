@@ -27,4 +27,3 @@ Steamの起動オプションに以下を追加してください：
 - [L4D2公式Wiki（Valve Developer Community）](https://developer.valvesoftware.com/wiki/Left_4_Dead_2)
 - [Steam コミュニティ :: ガイド](https://steamcommunity.com/app/550/guides/)
 - [L4D2 Workshop（MOD配布）](https://steamcommunity.com/app/550/workshop/)
-- [CFGファイルの基本ガイド（外部・英語）](https://www.gamereplays.org/community/index.php?showtopic=882803)
