@@ -4,7 +4,7 @@
 
 ---
 
-## 使用方法
+## 適応方法
 
 1. cfgフォルダを、以下のディレクトリにコピーします：
 <br><kbd>C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
