@@ -7,7 +7,7 @@
 ## 適応方法
 
 1. リポジトリをZIPでダウンロード
-2. ファイルを以下のパスに配置：
+2. cfgファイルを以下のパスに配置：
 <br><kbd>...\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
 3. L4D2を起動し、コンソールを開いて以下を実行：
 <br><kbd>exec autoexec.cfg
