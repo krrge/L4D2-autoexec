@@ -7,7 +7,7 @@
 ## 適応方法
 
 1. cfgフォルダを、以下のディレクトリにコピーします：
-<br><kbd>C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
+<br><kbd>...\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
 
 2. L4D2を起動し、コンソールを開いて以下を実行：
 <br><kbd>exec autoexec.cfg
